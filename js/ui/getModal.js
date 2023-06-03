@@ -121,8 +121,8 @@ function getModal(data) {
       tabindex="-1"
       aria-hidden="true"
     >
-      <div class="modal-dialog modal-dialog-scrollable modal-lg modal-xl">
-        <div class="modal-content p-4">
+      <div class="modal-dialog modal-dialog-scrollable modal-lg">
+        <div class="modal-content p-2 p-md-4">
           <div class="modal-header">
             <h1
               class="modal-title fs-3 font-bold"
